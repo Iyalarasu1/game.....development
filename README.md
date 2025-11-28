@@ -65,3 +65,11 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+https://github.com/user-attachments/assets/899e631c-69f3-4310-b6b1-285d3367740a
+
+## RESULT:
+
+3d motion video created and animated successfully
+
+
+
